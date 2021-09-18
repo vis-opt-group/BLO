@@ -1,5 +1,6 @@
 
-#A Quick Tutorial on Bi-level Optimization
+# A Quick Tutorial on Bi-level Optimization
+
 ## Introduction
 
 Bi-Level Optimization (BLO) techniques have emerged as an important tool for reformulating hierarchical leader-follower structures and solving varieties of pratical applications in learning and vision communities, for example, Hyper-parameter Optimization, Neural Architecture Search, Meta learning, Generative Adversarial Learning, Reinforcement Learning and so on. 
