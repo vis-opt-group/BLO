@@ -8,11 +8,11 @@ Bi-Level Optimization (BLO) techniques have emerged as an important tool for ref
 In this website, we first summarize our related progress and references of existing works for a quick look at the current progress. Futhermore, we provide a curated list of awesome BLO resources, especially in learning and vision fields. We will continuously maintain this website to promote the research in BLO fields.
 
 ## Our Related Work
-### Published Paper
+### Papers
 - Risheng Liu, Xuan Liu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. Bilevel Meta Optimization: A Unified Framework for Optimization-Derived Learning, to be online.
-<div align="center">
+<div width = "%50" height = %50  align="center">
 
-![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/NIPS21_liuxuan.png){:height="50%" width="50%"}
+![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/NIPS21_liuxuan.png)
 
 </div>
 
@@ -20,7 +20,7 @@ In this website, we first summarize our related progress and references of exist
 - Dian Jin, Long Ma, Risheng Liu, Xin Fan.Bridging the Gap between Low-Light Scenes: Bilevel Learning for Fast Adaptation. ACM MM 2021. 
 <div align="center">
 
-![ACMMM2021_jindian.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/ACMMM2021_jindian.png)
+![ACMMM2021_jindian.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/ACMMM2021_jindian.png) 
 
 </div>  
 
@@ -48,10 +48,24 @@ In this website, we first summarize our related progress and references of exist
 ![MUPAN2019.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/MUPAN2019.png)
 </div>  
 
-- Risheng Liu, Zi Li, Yuxi Zhang, Xin Fan, Zhongxuan Luo. [Bi-level Probabilistic Feature Learning for Deformable Image Registration. IJCAI 2020.](https://www.ijcai.org/Proceedings/2020/0101.pdf)
-- Risheng Liu, Long Ma, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. [ Bilevel Integrative Optimization for Ill-posed Inverse Problems. arXiv 2019.](https://arxiv.org/abs/1907.03083)
-- Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective:A Survey and Beyond](https://arxiv.org/pdf/2101.11517.pdf)
+- Risheng Liu, Zi Li, Yuxi Zhang, Xin Fan, Zhongxuan Luo. [Bi-level Probabilistic Feature Learning for Deformable Image Registration. IJCAI 2020.](https://www.ijcai.org/Proceedings/2020/0101.pdf) [[code]](https://github.com/Alison-brie/MultiPropReg)
+<div align="center">
 
+![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/lizi.png)
+
+</div>
+- Risheng Liu, Long Ma, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. [ Bilevel Integrative Optimization for Ill-posed Inverse Problems. arXiv 2019.](https://arxiv.org/abs/1907.03083)
+<div align="center">
+
+![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/malong.png)
+
+</div>
+- Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective:A Survey and Beyond](https://arxiv.org/pdf/2101.11517.pdf)
+<div align="center">
+
+![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/gao.png)
+
+</div>
 ### Bi-level Optimization Methods Toolkits
 We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a modularized Tensorflow-based optimization library that unifies several ML algorithms into a common bilevel optimization framework. Now we integrate more recently proposed algorithms and more compatible applications and release the Pytorch version.
 #### Generic Optimization Routine
