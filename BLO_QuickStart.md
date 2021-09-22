@@ -58,14 +58,14 @@ In this website, we first summarize our related progress and references of exist
 - Risheng Liu, Long Ma, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. [ Bilevel Integrative Optimization for Ill-posed Inverse Problems. arXiv 2019.](https://arxiv.org/abs/1907.03083)
 <div align="center">
 
-![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/malong.png)
+![malong.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/malong.png)
 
 </div>
 
 - Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective:A Survey and Beyond](https://arxiv.org/pdf/2101.11517.pdf)
 <div align="center">
 
-![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/gao.png)
+![gao.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/Fig_BLO_58-1.png)
 
 </div>
 
