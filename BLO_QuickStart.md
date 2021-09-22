@@ -10,7 +10,7 @@ In this website, we first summarize our related progress and references of exist
 ## Our Related Work
 ### Papers
 - Risheng Liu, Xuan Liu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. Bilevel Meta Optimization: A Unified Framework for Optimization-Derived Learning, to be online.
-<div width = "%50" height = %50  align="center">
+<div align="center">
 
 ![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/NIPS21_liuxuan.png)
 
