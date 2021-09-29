@@ -16,7 +16,7 @@ In this website, we first summarize our related progress and references of exist
 
 </div>
 
-- Risheng Liu, Yaohua Liu, Shangzhi Zeng, Jin Zhang. Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond. (to be online)
+- Risheng Liu, Yaohua Liu, Shangzhi Zeng, Jin Zhang. Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond. NIPS 2021.
 - Dian Jin, Long Ma, Risheng Liu, Xin Fan.Bridging the Gap between Low-Light Scenes: Bilevel Learning for Fast Adaptation. ACM MM 2021. 
 <div align="center">
 
