@@ -9,14 +9,8 @@ In this website, we first summarize our related progress and references of exist
 
 ## Our Related Work
 ### Papers
-- Risheng Liu, Xuan Liu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. Bilevel Meta Optimization: A Unified Framework for Optimization-Derived Learning. (to be online)
-<div align="center">
 
-![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/NIPS21_liuxuan.png)
-
-</div>
-
-- Risheng Liu, Yaohua Liu, Shangzhi Zeng, Jin Zhang. [Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond. NIPS 2021.](https://arxiv.org/abs/2110.00455) 
+- Risheng Liu, Yaohua Liu, Shangzhi Zeng, Jin Zhang. [Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond. NeurIPS 2021.](https://arxiv.org/abs/2110.00455) 
 - Dian Jin, Long Ma, Risheng Liu, Xin Fan.Bridging the Gap between Low-Light Scenes: Bilevel Learning for Fast Adaptation. ACM MM 2021. 
 <div align="center">
 
@@ -55,6 +49,12 @@ In this website, we first summarize our related progress and references of exist
 
 </div>
 
+- Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective:A Survey and Beyond. TPAMI 2021.](https://arxiv.org/pdf/2101.11517.pdf)
+<div align="center">
+
+![gao.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/Fig_BLO_58-1.png)
+
+</div>
 - Risheng Liu, Long Ma, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. Task-Oriented Convex Bilevel Optimization with Latent Feasibility. (major revision)
 
 <div align="center">
@@ -63,13 +63,12 @@ In this website, we first summarize our related progress and references of exist
 
 </div>
 
-- Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. [Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective:A Survey and Beyond](https://arxiv.org/pdf/2101.11517.pdf)
+- Risheng Liu, Xuan Liu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. Bilevel Meta Optimization: A Unified Framework for Optimization-Derived Learning. (to be online)
 <div align="center">
 
-![gao.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/Fig_BLO_58-1.png)
+![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/NIPS21_liuxuan.png)
 
 </div>
-
 ### Bi-level Optimization Methods Toolkits
 We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a modularized Tensorflow-based optimization library that unifies several ML algorithms into a common bilevel optimization framework. Now we integrate more recently proposed algorithms and more compatible applications and release the Pytorch version.
 #### Generic Optimization Routine
@@ -78,20 +77,20 @@ coming soon...
 
 
 #### Integrated Algoithms
- - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks(MAML)](https://arxiv.org/abs/1703.03400)
- - [On First-Order Meta-Learning Algorithms(FMAML)](https://arxiv.org/abs/1703.03400)
- - [Meta-SGD: Learning to Learn Quickly for Few-Shot Learning(Meta-SGD)](https://arxiv.org/pdf/1707.09835.pdf)
- - [Learning to Forget for Meta-Learning(L2F)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baik_Learning_to_Forget_for_Meta-Learning_CVPR_2020_paper.pdf)
- - [Bilevel Programming for Hyperparameter Optimization and Meta-Learning(RAD)](http://export.arxiv.org/pdf/1806.04910)
- - [Truncated Back-propagation for Bilevel Optimization(T-RAD)](https://arxiv.org/pdf/1810.10667.pdf)
- - [Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace(MT-Net)](http://proceedings.mlr.press/v80/lee18a/lee18a.pdf)
- - [Meta-Learning with warped gradient Descent(WarpGrad))](https://arxiv.org/abs/1909.00025)
- - [DARTS: Differentiable Architecture Search(OS-RAD)](https://arxiv.org/pdf/1806.09055.pdf)
- - [A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton(BDA)](https://arxiv.org/pdf/2006.04045.pdf)
+ - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML)](https://arxiv.org/abs/1703.03400)
+ - [On First-Order Meta-Learning Algorithms (FMAML)](https://arxiv.org/abs/1703.03400)
+ - [Meta-SGD: Learning to Learn Quickly for Few-Shot Learning (Meta-SGD)](https://arxiv.org/pdf/1707.09835.pdf)
+ - [Learning to Forget for Meta-Learning (L2F)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Baik_Learning_to_Forget_for_Meta-Learning_CVPR_2020_paper.pdf)
+ - [Bilevel Programming for Hyperparameter Optimization and Meta-Learning (RAD)](http://export.arxiv.org/pdf/1806.04910)
+ - [Truncated Back-propagation for Bilevel Optimization (T-RAD)](https://arxiv.org/pdf/1810.10667.pdf)
+ - [Gradient-Based Meta-Learning with Learned Layerwise Metric and Subspace (MT-Net)](http://proceedings.mlr.press/v80/lee18a/lee18a.pdf)
+ - [Meta-Learning with warped gradient Descent (WarpGrad))](https://arxiv.org/abs/1909.00025)
+ - [DARTS: Differentiable Architecture Search (OS-RAD)](https://arxiv.org/pdf/1806.09055.pdf)
+ - [A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton (BDA)](https://arxiv.org/pdf/2006.04045.pdf)
 
- - [Meta-Learning with Implicit Gradients(LS)](https://arxiv.org/pdf/1909.04630.pdf)
- - [Optimizing millions of hyperparameters by implicit differentiation(NS)](https://arxiv.org/pdf/1911.02590.pdf)
- - [Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond(IAPTT-GM)]
+ - [Meta-Learning with Implicit Gradients (LS)](https://arxiv.org/pdf/1909.04630.pdf)
+ - [Optimizing millions of hyperparameters by implicit differentiation (NS)](https://arxiv.org/pdf/1911.02590.pdf)
+ - [Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond (IAPTT-GM)](https://arxiv.org/abs/2110.00455) 
 
 #### Documentation 
 
