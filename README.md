@@ -47,7 +47,7 @@ In this website, we first summarize our related progress and references of exist
 - Risheng Liu, Pan Mu, Jian Chen, Xin Fan, Zhongxuan Luo. [Investigating Task-driven Latent Feasibility for Nonconvex Image Modeling.  IEEE TIP 2020.](https://arxiv.org/abs/1910.08242)
 <div align="center">
 
-<-- ![MUPAN2019.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/MUPAN2019.png) -->
+<!-- ![MUPAN2019.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/MUPAN2019.png) -->
 </div>  
 
 - Risheng Liu, Zi Li, Yuxi Zhang, Xin Fan, Zhongxuan Luo. [Bi-level Probabilistic Feature Learning for Deformable Image Registration. IJCAI 2020.](https://www.ijcai.org/Proceedings/2020/0101.pdf) [[code]](https://github.com/Alison-brie/MultiPropReg)
@@ -61,7 +61,7 @@ In this website, we first summarize our related progress and references of exist
 
 <div align="center">
 
-<! -- ![malong.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/malong.png) -->
+<!-- ![malong.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/malong.png) -->
 
 </div>
 
@@ -90,7 +90,6 @@ coming soon...
  - [Meta-Learning with warped gradient Descent (WarpGrad))](https://arxiv.org/abs/1909.00025)
  - [DARTS: Differentiable Architecture Search (OS-RAD)](https://arxiv.org/pdf/1806.09055.pdf)
  - [A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton (BDA)](https://arxiv.org/pdf/2006.04045.pdf)
-
  - [Meta-Learning with Implicit Gradients (LS)](https://arxiv.org/pdf/1909.04630.pdf)
  - [Optimizing millions of hyperparameters by implicit differentiation (NS)](https://arxiv.org/pdf/1911.02590.pdf)
  - [Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond (IAPTT-GM)](https://arxiv.org/abs/2110.00455) 
