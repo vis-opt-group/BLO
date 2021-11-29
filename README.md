@@ -44,7 +44,7 @@ In this website, we first summarize our related progress and references of exist
 <!-- ![BDA.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/BDA.png) -->
 </div>  
 
-- Risheng Liu, Pan Mu, Jian Chen, Xin Fan, Zhongxuan Luo. [Investigating Task-driven Latent Feasibility for Nonconvex Image Modeling.  IEEE TIP 2020.](https://arxiv.org/abs/1910.08242)
+- Risheng Liu, Pan Mu, Jian Chen, Xin Fan, Zhongxuan Luo. Investigating Task-driven Latent Feasibility for Nonconvex Image Modeling.  IEEE TIP 2020.[[Code]](https://arxiv.org/abs/1910.08242)
 <div align="center">
 
 <!-- ![MUPAN2019.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/MUPAN2019.png) -->
