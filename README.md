@@ -18,7 +18,7 @@ In this website, we first summarize our related progress and references of exist
 
 </div>  
 
-- Risheng Liu, Xuan Liu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. A Value Function-based Interior-point Method for Non-convex Bilevel Optimization. ICML 2021.[Paper](https://arxiv.org/pdf/2106.07991.pdf)[Code](https://github.com/vis-opt-group/BVFSM)
+- Risheng Liu, Xuan Liu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. A Value Function-based Interior-point Method for Non-convex Bilevel Optimization. ICML 2021.[[Paper]](https://arxiv.org/pdf/2106.07991.pdf)[[Code]](https://github.com/vis-opt-group/BVFSM)
 <div align="center">
 
 <!-- ![ICML21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/ICML21_liuxuan.png) -->
@@ -31,14 +31,14 @@ In this website, we first summarize our related progress and references of exist
 
 </div>
 
-- Yaohua Liu, Risheng Liu. BOML: A Modularized Bilevel Optimization Library in Python for Meta-learning. ICME 2021.[Paper](https://arxiv.org/abs/2009.13357)[Code](https://github.com/dut-media-lab/BOML)
+- Yaohua Liu, Risheng Liu. BOML: A Modularized Bilevel Optimization Library in Python for Meta-learning. ICME 2021.[[Paper]](https://arxiv.org/abs/2009.13357)[[Code]](https://github.com/dut-media-lab/BOML)
 <div align="center">
 
 <!-- ![BOML.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/BOML.png) -->
  
 </div>  
 
-- Risheng Liu, Pan Mu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton. ICML 2020. [Paper](https://arxiv.org/abs/2006.04045)[Code](https://github.com/vis-opt-group/BDA)
+- Risheng Liu, Pan Mu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton. ICML 2020. [[Paper]](https://arxiv.org/abs/2006.04045)[[Code]](https://github.com/vis-opt-group/BDA)
 <div align="center">
 
 <!-- ![BDA.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/BDA.png) -->
@@ -50,7 +50,7 @@ In this website, we first summarize our related progress and references of exist
 <!-- ![MUPAN2019.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/MUPAN2019.png) -->
 </div>  
 
-- Risheng Liu, Zi Li, Yuxi Zhang, Xin Fan, Zhongxuan Luo. [Bi-level Probabilistic Feature Learning for Deformable Image Registration. IJCAI 2020.](https://www.ijcai.org/Proceedings/2020/0101.pdf) [[code]](https://github.com/Alison-brie/MultiPropReg)
+- Risheng Liu, Zi Li, Yuxi Zhang, Xin Fan, Zhongxuan Luo. Bi-level Probabilistic Feature Learning for Deformable Image Registration. IJCAI 2020.[[Paper]](https://www.ijcai.org/Proceedings/2020/0101.pdf) [[code]](https://github.com/Alison-brie/MultiPropReg)
 <div align="center">
 
 <!-- ![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/lizi.png) -->
