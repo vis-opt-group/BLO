@@ -22,7 +22,7 @@ Bi-Level Optimization (BLO) is originated from the area of economic game theory 
 
 
 In our recent survey published in TPAMI, named "Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond", we uniformly express these complex learning and vision problems from the perspective of BLO. Also we construct a best-response-based single-level reformulation and establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties. We also discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. 
-If you are concerned about bi-level optimization, please refer our article our paper for details and cite it [[Paper](https://arxiv.org/abs/2101.11517)].
+If you are concerned about bi-level optimization, please refer to our paper for details and cite it [[Paper](https://arxiv.org/abs/2101.11517)].
 
 
 In this website, we first summarize our related progress and references of existing works for a quick look at the current progress. Futhermore, we provide a list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs. We will continuously maintain this website to promote the research in BLO fields.
