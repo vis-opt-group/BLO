@@ -7,6 +7,14 @@ Bi-Level Optimization (BLO) techniques have emerged as an important tool for ref
 
 In this website, we first summarize our related progress and references of existing works for a quick look at the current progress. Futhermore, we provide a curated list of awesome BLO resources, especially in learning and vision fields. We will continuously maintain this website to promote the research in BLO fields.
 
+## Abstract
+
+Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. In machine learning and computer vision fields, despite the different
+motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms. In this paper, we first uniformly express these complex learning and vision problems from the perspective of BLO. Then we construct a best-response-based single-level reformulation and 
+establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties.
+Last but not least, we discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. A list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs are publicly available at: https://github.com/vis-opt-group/BLO.
+
+
 ## Our Related Work
 ### Papers
 
