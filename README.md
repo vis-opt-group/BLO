@@ -34,10 +34,11 @@ In this website, we first summarize our related progress and references of exist
 - Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond. [[Paper](https://arxiv.org/abs/2101.11517)] [[Project Page](https://github.com/vis-opt-group/BLO)] 
 - Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo. Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.html)] [[Project Page](http://dutmedia.org/RUAS/)] 
 
-- Risheng Liu, Yaohua Liu, Shangzhi Zeng, Jin Zhang. Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond. NeurIPS 2021. [[Paper](https://arxiv.org/abs/2110.00455)] [[Code](https://github.com/vis-opt-group/IAPTT-GM)] 
+- Risheng Liu, Yaohua Liu, Shangzhi Zeng, Jin Zhang. Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond. NeurIPS 2021 (Spotlight, Acceptance Rate ≤ 3%). [[Paper](https://arxiv.org/abs/2110.00455)] [[Code](https://github.com/vis-opt-group/IAPTT-GM)] 
 
+- Pan Mu, Zhu Liu, Yaohua Liu, Risheng Liu, Xin Fan. Triple-level Model Inferred Collaborative Network Architecture for Video Deraining. IEEE TIP. [[Paper](https://ieeexplore.ieee.org/document/9628137)] [[Code](https://github.com/vis-opt-group/TMICS)] 
 
-
+- Risheng Liu, Zhu Liu, Jinyuan Liu, Xin Fan. Searching a Hierarchically Aggregated Fusion Architecture for Fast Multi-Modality Image Fusion. ACM MM. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475299)] [[Code](https://github.com/LiuzhuForFun/Hierarchical-NAS-Image-Fusion)].
 
 - Dian Jin, Long Ma, Risheng Liu, Xin Fan. Bridging the Gap between Low-Light Scenes: Bilevel Learning for Fast Adaptation. ACM MM 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475404) 
 <div align="center">
@@ -51,13 +52,6 @@ In this website, we first summarize our related progress and references of exist
 
 <!-- ![ICML21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/ICML21_liuxuan.png) -->
 </div>  
-
-- Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective:A Survey and Beyond. TPAMI 2021.[[Paper]](https://arxiv.org/pdf/2101.11517.pdf)
-<div align="center">
-
-<!-- ![gao.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/Fig_BLO_58-1.png) -->
-
-</div>
 
 - Yaohua Liu, Risheng Liu. BOML: A Modularized Bilevel Optimization Library in Python for Meta-learning. ICME 2021.[[Paper]](https://arxiv.org/abs/2009.13357)[[Code]](https://github.com/dut-media-lab/BOML)
 <div align="center">
