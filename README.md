@@ -14,7 +14,8 @@ motivations and mechanisms, a lot of complex problems, such as hyper-parameter o
 establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties.
 Last but not least, we discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. A list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs are publicly available at: https://github.com/vis-opt-group/BLO.
 
-We provide examples for optimistic BLO.<br>
+BLOs are hierarchical optimization problems of two players (“leader” and “follower”, a.k.a., Stackelberg game).
+The standard BLO problem can be formally expressed as<br>
 
 <div align=center>
   
