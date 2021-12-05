@@ -19,7 +19,7 @@ The standard BLO problem can be formally expressed as<br>
 
 <div align=center>
   
-![BLO](blo.png)
+![BLO](blo_1.png)
 </div>
 
 Illustrating the roadmap of different categories of gradient-based BLOs.<br>
