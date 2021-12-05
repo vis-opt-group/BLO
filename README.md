@@ -22,7 +22,10 @@ The standard BLO problem can be formally expressed as<br>
 ![optimistic BLO](blo.png)
 </div>
 
-
+Illustrating the roadmap of different categories of gradient-based BLOs. 
+<div align=center>
+  ![optimistic BLO](Fig_BLO_60.pdf)
+</div>
 
 ## Our Related Work
 ### Papers
