@@ -2,18 +2,6 @@
 # A Quick Tutorial on Bi-level Optimization
 
 ## Introduction
-
-Bi-Level Optimization (BLO) techniques have emerged as an important tool for reformulating hierarchical leader-follower structures and solving varieties of pratical applications in learning and vision communities, for example, Hyper-parameter Optimization, Neural Architecture Search, Meta learning, Generative Adversarial Learning, Reinforcement Learning and so on. 
-
-In this website, we first summarize our related progress and references of existing works for a quick look at the current progress. Futhermore, we provide a curated list of awesome BLO resources, especially in learning and vision fields. We will continuously maintain this website to promote the research in BLO fields.
-
-## Abstract
-
-Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. In machine learning and computer vision fields, despite the different
-motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms. In this paper, we first uniformly express these complex learning and vision problems from the perspective of BLO. Then we construct a best-response-based single-level reformulation and 
-establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties.
-Last but not least, we discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. A list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs are publicly available at: https://github.com/vis-opt-group/BLO.
-
 BLOs are hierarchical optimization problems of two players (“leader” and “follower”, a.k.a., Stackelberg game).
 The standard BLO problem can be formally expressed as<br>
 
@@ -27,6 +15,18 @@ Illustrating the roadmap of different categories of gradient-based BLOs.<br>
   
 ![BLO](blo_2.png)
 </div>
+
+
+
+Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. In machine learning and computer vision fields, despite the different motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms.
+
+
+In our recent survey published in TPAMI, named "Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond", we uniformly express these complex learning and vision problems from the perspective of BLO. Also we construct a best-response-based single-level reformulation and establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties. We also discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. 
+If you are concerned about bi-level optimization, please refer our article our paper for details and cite it [[Paper](https://arxiv.org/abs/2101.11517)].
+
+
+In this website, we first summarize our related progress and references of existing works for a quick look at the current progress. Futhermore, we provide a list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs. We will continuously maintain this website to promote the research in BLO fields.
+
 
 ## Our Related Work
 ### Papers
