@@ -26,15 +26,15 @@ In this website, we first summarize our related progress and references of exist
 
 ## Our Related Work
 ### Papers
-- Risheng Liu, Zi Li, Xin Fan, Chenying Zhao, Hao Huang, Zhongxuan Luo. Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond.  [[Paper](https://arxiv.org/abs/2004.14557)]
-- Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond. [[Paper](https://arxiv.org/abs/2101.11517)] [[Project Page](https://github.com/vis-opt-group/BLO)] 
-- Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo. Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.html)] [[Project Page](http://dutmedia.org/RUAS/)] 
+- Risheng Liu, Zi Li, Xin Fan, Chenying Zhao, Hao Huang, Zhongxuan Luo. Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond. IEEE TPAMI 2021. [[Paper](https://arxiv.org/abs/2004.14557)]
+- Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond. IEEE TPAMI 2021. [[Paper](https://arxiv.org/abs/2101.11517)] [[Project Page](https://github.com/vis-opt-group/BLO)] 
+- Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo. Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement. CVPR 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.html)] [[Project Page](http://dutmedia.org/RUAS/)] 
 
 - Risheng Liu, Yaohua Liu, Shangzhi Zeng, Jin Zhang. Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond. NeurIPS 2021 (Spotlight, Acceptance Rate ≤ 3%). [[Paper](https://arxiv.org/abs/2110.00455)] [[Code](https://github.com/vis-opt-group/IAPTT-GM)] 
 
-- Pan Mu, Zhu Liu, Yaohua Liu, Risheng Liu, Xin Fan. Triple-level Model Inferred Collaborative Network Architecture for Video Deraining. IEEE TIP. [[Paper](https://ieeexplore.ieee.org/document/9628137)] [[Code](https://github.com/vis-opt-group/TMICS)] 
+- Pan Mu, Zhu Liu, Yaohua Liu, Risheng Liu, Xin Fan. Triple-level Model Inferred Collaborative Network Architecture for Video Deraining. IEEE TIP 2021. [[Paper](https://ieeexplore.ieee.org/document/9628137)] [[Code](https://github.com/vis-opt-group/TMICS)] 
 
-- Risheng Liu, Zhu Liu, Jinyuan Liu, Xin Fan. Searching a Hierarchically Aggregated Fusion Architecture for Fast Multi-Modality Image Fusion. ACM MM. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475299)] [[Code](https://github.com/LiuzhuForFun/Hierarchical-NAS-Image-Fusion)].
+- Risheng Liu, Zhu Liu, Jinyuan Liu, Xin Fan. Searching a Hierarchically Aggregated Fusion Architecture for Fast Multi-Modality Image Fusion. ACM MM 2021. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475299)] [[Code](https://github.com/LiuzhuForFun/Hierarchical-NAS-Image-Fusion)].
 
 - Dian Jin, Long Ma, Risheng Liu, Xin Fan. Bridging the Gap between Low-Light Scenes: Bilevel Learning for Fast Adaptation. ACM MM 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475404) 
 <div align="center">
@@ -75,20 +75,7 @@ In this website, we first summarize our related progress and references of exist
 
 </div>
 
-- Risheng Liu, Long Ma, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. Task-Oriented Convex Bilevel Optimization with Latent Feasibility. (major revision)
 
-<div align="center">
-
-<!-- ![malong.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/malong.png) -->
-
-</div>
-
-- Risheng Liu, Xuan Liu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang. Bilevel Meta Optimization: A Unified Framework for Optimization-Derived Learning. (to be online)
-<div align="center">
- 
-<!-- ![NIPS21_liuxuan.png](https://github.com/dut-media-lab/dut-media-lab.github.io/blob/main/figures/NIPS21_liuxuan.png) -->
- 
-</div>
 
 ### Bi-level Optimization Methods Toolkits
 We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a modularized Tensorflow-based optimization library that unifies several ML algorithms into a common bilevel optimization framework. Now we integrate more recently proposed algorithms and more compatible applications and release the Pytorch version.
