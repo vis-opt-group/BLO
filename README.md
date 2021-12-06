@@ -92,10 +92,6 @@ In this website, we first summarize our related progress and references of exist
 
 ### Bi-level Optimization Methods Toolkits
 We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a modularized Tensorflow-based optimization library that unifies several ML algorithms into a common bilevel optimization framework. Now we integrate more recently proposed algorithms and more compatible applications and release the Pytorch version.
-#### Generic Optimization Routine
-coming soon...
-
-
 
 #### Integrated Algoithms
  - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML)](https://arxiv.org/abs/1703.03400)
@@ -111,10 +107,6 @@ coming soon...
  - [Meta-Learning with Implicit Gradients (LS)](https://arxiv.org/pdf/1909.04630.pdf)
  - [Optimizing millions of hyperparameters by implicit differentiation (NS)](https://arxiv.org/pdf/1911.02590.pdf)
  - [Towards Gradient-based Bilevel Optimization with Non-convex Followers and Beyond (IAPTT-GM)](https://arxiv.org/abs/2110.00455) 
-
-#### Documentation 
-
-coming soon...
 
 
 ## Parts of Existing Work in Learning and Vision Fields
