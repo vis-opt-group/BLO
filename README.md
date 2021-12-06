@@ -139,10 +139,14 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 - Haoming Jiang, Zhehui Chen, Yuyang Shi, Bo Dai, Tuo Zhao. [Learning to defense by learning to attack. ICLR 2019.](https://arxiv.org/abs/1811.01213)
 - Yuesong Tian, Li Shen, Li Shen, Guinan Su, Zhifeng Li, Wei Liu. [Alphagan: Fully Differentiable Architecture Search for Generative Adversarial Networks. CVPR 2020.](https://arxiv.org/abs/2006.09134)
 ### Deep Reinforcement Learning
-- Haifeng Zhang, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. [Bi-level Actor-critic for Multi-agent Coordination. arXiv 2019](https://arxiv.org/abs/1909.03510)
+- Haifeng Zhang, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. [Bi-level Actor-critic for Multi-agent Coordination. AAAI 2020](https://arxiv.org/abs/1909.03510)
 - David Pfau, Oriol Vinyals. [Connecting Generative Adversarial Networks and Actor-critic Methods. NeurIPS 2016.](https://arxiv.org/abs/1610.01945)
 - Zhuoran Yang, Yongxin Chen, Mingyi Hong, Zhaoran Wang. [Provably Global Convergence of Actor-critic: A Case for Linear Quadratic Regulator with Ergodic Cost. NeurIPS 2019.](https://proceedings.neurips.cc/paper/2019/hash/9713faa264b94e2bf346a1bb52587fd8-Abstract.html)
 - Zhangyu Chen, Dong Liu, Xiaofei Wu, Xiaochuan Xu. [Research on Distributed Renewable Energy Transaction Decision-making based on Multi-Agent Bilevel Cooperative Reinforcement Learning. CIRED 2019.](https://www.cired-repository.org/handle/20.500.12455/390)
+- Ying Liu, Wenhong Cai, Xiaohui Yuan, Jinhai Xiang. [GL-GAN: Adaptive Global and Local Bilevel Optimization model of Image Generation. arXiv 2020.] (https://arxiv.org/abs/2008.02436)
+- Chen, Zhangyu and Liu, Dong and Wu, Xiaofei and Xu, Xiaochun. [Research on Distributed Renewable Energy Transaction Decision-making Based on Multi-Agent Bilevel Cooperative Reinforcement Learning. CIRED 2019.](https://www.researchgate.net/publication/324250638_Reinforcement_Learning_Approach_for_Optimal_Distributed_Energy_Management_in_a_Microgrid)
+- Yang, Jiachen and Borovikov, Igor and Zha, Hongyuan. [Hierarchical cooperative multi-agent reinforcement learning with skill discovery. AAMAS 2020.](https://arxiv.org/abs/1912.03558)
+- Wang, Xuechun and Chen, Hongkun and Wu, Jun and Ding, Yurong and Lou, Qinghui and Liu, Shuwei. [Bi-level Multi-agents Interactive Decision-making Model in Regional Integrated Energy System. Energy Internet and Energy System Integration 2019.](https://ieeexplore.ieee.org/abstract/document/9061889)
 ### Other Applications
 - Sanjeev Arora, Simon S. Du, Sham Kakade, Yuping Luo, Nikunj Saunshi. [Provable Representation Learning for Imitation Learning via Bi-level Optimization. arXiv 2020.](https://arxiv.org/abs/2002.10544)
 - Basura Fernando, Stephen Gould. [Learning End-to-end Video Classification with Rank-pooling. ICML 2016.](http://proceedings.mlr.press/v48/fernando16.pdf)
