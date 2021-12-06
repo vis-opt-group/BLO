@@ -147,6 +147,8 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 - Chen, Zhangyu and Liu, Dong and Wu, Xiaofei and Xu, Xiaochun. [Research on Distributed Renewable Energy Transaction Decision-making Based on Multi-Agent Bilevel Cooperative Reinforcement Learning. CIRED 2019.](https://www.researchgate.net/publication/324250638_Reinforcement_Learning_Approach_for_Optimal_Distributed_Energy_Management_in_a_Microgrid)
 - Yang, Jiachen and Borovikov, Igor and Zha, Hongyuan. [Hierarchical cooperative multi-agent reinforcement learning with skill discovery. AAMAS 2020.](https://arxiv.org/abs/1912.03558)
 - Wang, Xuechun and Chen, Hongkun and Wu, Jun and Ding, Yurong and Lou, Qinghui and Liu, Shuwei. [Bi-level Multi-agents Interactive Decision-making Model in Regional Integrated Energy System. Energy Internet and Energy System Integration 2019.](https://ieeexplore.ieee.org/abstract/document/9061889)
+- Torabi, Faraz and Warnell, Garrett and Stone, Peter. [Generative adversarial imitation from observation. arXiv 2018.](https://arxiv.org/abs/1807.06158)
+- Li, Yunzhu and Song, Jiaming and Ermon, Stefano. [Infogail: Interpretable imitation learning from visual demonstrations. NeurIPS 2017.](https://arxiv.org/abs/1703.08840)
 ### Other Applications
 - Sanjeev Arora, Simon S. Du, Sham Kakade, Yuping Luo, Nikunj Saunshi. [Provable Representation Learning for Imitation Learning via Bi-level Optimization. arXiv 2020.](https://arxiv.org/abs/2002.10544)
 - Basura Fernando, Stephen Gould. [Learning End-to-end Video Classification with Rank-pooling. ICML 2016.](http://proceedings.mlr.press/v48/fernando16.pdf)
