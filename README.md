@@ -104,12 +104,12 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 - Chelsea Finn, Pieter Abbeel, Sergey Levine. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. ICML 2017.](https://arxiv.org/abs/1703.03400)
 - Alex Nichol, Joshua Achiam, John Schulman. [On First-Order Meta-Learning Algorithms. arXiv 2018.](https://arxiv.org/abs/1803.02999)
 - Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Francesco Visin, Hujun Yin, Raia Hadsell. [Meta-Learning with Warped Gradient Descent. ICLR 2020.](https://arxiv.org/abs/1909.00025)
-- Eunbyung Park, Junier B. Oliva. [Meta-Curvature. NIPS 2019.](https://proceedings.neurips.cc/paper/2019/hash/57c0531e13f40b91b3b0f1a30b529a1d-Abstract.html)
+- Eunbyung Park, Junier B. Oliva. [Meta-Curvature. NeurIPS 2019.](https://proceedings.neurips.cc/paper/2019/hash/57c0531e13f40b91b3b0f1a30b529a1d-Abstract.html)
 - Yoonho Lee, Seungjin Choi. [Meta-Learning with Adaptive Layerwise Metric and Subspace. arXiv 2018.](https://arxiv.org/abs/1801.05558v1)
 - Matthew MacKay, Paul Vicol, Jon Lorraine, David Duvenaud, Roger Grosse.[ Self-tuning Networks: Bilevel Optimization of Hyperparameters Using Structured Best-response Functions. ICLR 2019.](https://arxiv.org/pdf/1903.03088.pdf)
 - Jonathan Lorraine, David Duvenaud. [Stochastic Hyperparameter Optimization through Hypernetworks. arXiv 2018.](https://arxiv.org/pdf/1802.09419.pdf)
 - Fabian Pedregosa. [Hyperparameter Optimization with Approximate Gradient. ICML 2016.](https://arxiv.org/pdf/1602.02355.pdf)
-- Aravind Rajeswaran, Chelsea Finn, Sham Kakade, Sergey Levine. [Meta-Learning with Implicit Gradients. NIPS 2019.](https://arxiv.org/pdf/1909.04630.pdf)
+- Aravind Rajeswaran, Chelsea Finn, Sham Kakade, Sergey Levine. [Meta-Learning with Implicit Gradients. NeurIPS 2019.](https://arxiv.org/pdf/1909.04630.pdf)
 - Jonathan Lorraine, Paul Vicol, David Duvenaud. [Optimizing Millions of Hyperparameters by Implicit Differentiation. AISTATS 2020.](https://arxiv.org/pdf/1911.02590.pdf)
 ### Hyper-parameter Optimization
 - Luca Franceschi, Michele Donini, Paolo Frasconi, Massimiliano Pontil. [Forward and Reverse Gradient-Based Hyperparameter Optimization. ICML 2017.](https://arxiv.org/abs/1703.01785)
@@ -123,7 +123,7 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 - Alex Nichol, Joshua Achiam, John Schulman. [On First-Order Meta-Learning Algorithms. arXiv 2018.](https://arxiv.org/abs/1803.02999)
 - Sebastian Flennerhag, Andrei A. Rusu, Razvan Pascanu, Francesco Visin, Hujun Yin, Raia Hadsell. [Meta-Learning with Warped Gradient Descent. ICLR 2020.](https://arxiv.org/abs/1909.00025)
 - Aravind Rajeswaran, Chelsea Finn, Sham Kakade, Sergey Levine. [Meta-Learning with Implicit Gradients. NIPS 2019.](https://arxiv.org/pdf/1909.04630.pdf)
-- Luca Franceschi, Paolo Frasconi, Michele Donini, Massimiliano Pontil. [A Bridge Between Hyperparameter Optimization and Learning-to-learn, NIPS 2017.](https://arxiv.org/pdf/1712.06283.pdf)
+- Luca Franceschi, Paolo Frasconi, Michele Donini, Massimiliano Pontil. [A Bridge Between Hyperparameter Optimization and Learning-to-learn, NeurIPS 2017.](https://arxiv.org/pdf/1712.06283.pdf)
 - Luca Franceschi, Paolo Frasconi, Saverio Salzo, Riccardo Grazzi, Massimilano Pontil. [Bilevel Programming for Hyperparameter Optimization and Meta-learning. ICML 2018.](https://arxiv.org/abs/1806.04910)
 - Luca Bertinetto, João F. Henriques, Philip H.S. Torr, Andrea Vedaldi. [Meta-learning with Differentiable Closed-form Solvers, ICLR 2019.](https://arxiv.org/abs/1805.08136)
 - Alex Nichol, John Schulman. Reptile: A Scalable Metalearning Algorithm.
@@ -140,7 +140,7 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 - Yuesong Tian, Li Shen, Li Shen, Guinan Su, Zhifeng Li, Wei Liu. [Alphagan: Fully Differentiable Architecture Search for Generative Adversarial Networks. CVPR 2020.](https://arxiv.org/abs/2006.09134)
 ### Deep Reinforcement Learning
 - Haifeng Zhang, Weizhe Chen, Zeren Huang, Minne Li, Yaodong Yang, Weinan Zhang, Jun Wang. [Bi-level Actor-critic for Multi-agent Coordination. arXiv 2019](https://arxiv.org/abs/1909.03510)
-- David Pfau, Oriol Vinyals. [Connecting Generative Adversarial Networks and Actor-critic Methods. NIPS 2016.](https://arxiv.org/abs/1610.01945)
+- David Pfau, Oriol Vinyals. [Connecting Generative Adversarial Networks and Actor-critic Methods. NeurIPS 2016.](https://arxiv.org/abs/1610.01945)
 - Zhuoran Yang, Yongxin Chen, Mingyi Hong, Zhaoran Wang. [Provably Global Convergence of Actor-critic: A Case for Linear Quadratic Regulator with Ergodic Cost. NIPS 2019.](https://proceedings.neurips.cc/paper/2019/hash/9713faa264b94e2bf346a1bb52587fd8-Abstract.html)
 - Zhangyu Chen, Dong Liu, Xiaofei Wu, Xiaochuan Xu. [Research on Distributed Renewable Energy Transaction Decision-making based on Multi-Agent Bilevel Cooperative Reinforcement Learning. CIRED 2019.](https://www.cired-repository.org/handle/20.500.12455/390)
 ### Other Applications
