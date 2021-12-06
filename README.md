@@ -2,7 +2,7 @@
 # A Quick Tutorial on Bi-level Optimization
 
 ## Introduction
-BLOs are hierarchical optimization problems of two players (“leader” and “follower”, a.k.a., Stackelberg game).
+Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. 
 The standard BLO problem can be formally expressed as<br>
 
 <div align=center>
@@ -18,9 +18,7 @@ Illustrating the roadmap of different categories of gradient-based BLOs.<br>
 
 
 
-Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. In machine learning and computer vision fields, despite the different motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms.
-
-
+In machine learning and computer vision fields, despite the different motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms. 
 In our recent survey published in TPAMI, named "Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond", we uniformly express these complex learning and vision problems from the perspective of BLO. Also we construct a best-response-based single-level reformulation and establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties. We also discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. 
 If you are concerned about bi-level optimization, please refer to our paper for details and cite it [[Paper](https://arxiv.org/abs/2101.11517)].
 
