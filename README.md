@@ -3,7 +3,7 @@
 # A Quick Tutorial on Bi-level Optimization
 
 ## Introduction
-Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. 
+- [x] Bi-Level Optimization (BLO) is originated from the area of economic game theory and then introduced into the optimization community. BLO is able to handle problems with a hierarchical structure, involving two levels of optimization tasks, where one task is nested inside the other. 
 The standard BLO problem can be formally expressed as<br>
 
 <div align=center>
@@ -26,7 +26,7 @@ In this website, we first summarize our related progress and references of exist
 
 
 ## Our Related Work
-- [x] ### Papers
+### Papers
 - Risheng Liu, Jiaxin Gao, Jin Zhang, Deyu Meng, Zhouchen Lin. Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond. IEEE TPAMI 2021. [[Paper](https://arxiv.org/abs/2101.11517)] [[Project Page](https://github.com/vis-opt-group/BLO)] 
 - Risheng Liu, Zi Li, Xin Fan, Chenying Zhao, Hao Huang, Zhongxuan Luo. Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond. IEEE TPAMI 2021. [[Paper](https://arxiv.org/abs/2004.14557)]
 - Risheng Liu, Long Ma, Jiaao Zhang, Xin Fan, Zhongxuan Luo. Retinex-Inspired Unrolling With Cooperative Prior Architecture Search for Low-Light Image Enhancement. CVPR 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Retinex-Inspired_Unrolling_With_Cooperative_Prior_Architecture_Search_for_Low-Light_Image_CVPR_2021_paper.html)] [[Project Page](http://dutmedia.org/RUAS/)] 
@@ -78,7 +78,7 @@ In this website, we first summarize our related progress and references of exist
 
 
 
-- [x] ### Bi-level Optimization Methods Toolkits
+### Bi-level Optimization Methods Toolkits
 We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a modularized Tensorflow-based optimization library that unifies several ML algorithms into a common bilevel optimization framework. Now we integrate more recently proposed algorithms and more compatible applications and release the Pytorch version.
 
 #### Integrated Algoithms
@@ -98,7 +98,7 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 
 
 ## Parts of Existing Work in Learning and Vision Fields
-- [x] ### Gradient-based Optimization
+### Gradient-based Optimization
 - Luca Franceschi, Michele Donini, Paolo Frasconi, Massimiliano Pontil. [Forward and Reverse Gradient-Based Hyperparameter Optimization. ICML 2017.](https://arxiv.org/abs/1703.01785)
 - Amirreza Shaban, Ching-An Cheng, Nathan Hatch, Byron Boots. [Truncated Back-propagation for Bilevel Optimization. AISTATS 2019.](http://proceedings.mlr.press/v89/shaban19a.html)
 - Hanxiao Liu, Karen Simonyan, Yiming Yang. [DARTS: Differentiable Architecture Search. ICLR 2019.](https://arxiv.org/abs/1806.09055)
