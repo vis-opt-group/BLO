@@ -153,3 +153,11 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 ### Other Applications
 - Sanjeev Arora, Simon S. Du, Sham Kakade, Yuping Luo, Nikunj Saunshi. [Provable Representation Learning for Imitation Learning via Bi-level Optimization. arXiv 2020.](https://arxiv.org/abs/2002.10544)
 - Basura Fernando, Stephen Gould. [Learning End-to-end Video Classification with Rank-pooling. ICML 2016.](http://proceedings.mlr.press/v48/fernando16.pdf)
+
+
+@article{liu2021investigating,
+  title={Investigating bi-level optimization for learning and vision from a unified perspective: A survey and beyond},
+  author={Liu, Risheng and Gao, Jiaxin and Zhang, Jin and Meng, Deyu and Lin, Zhouchen},
+  journal={arXiv preprint arXiv:2101.11517},
+  year={2021}
+}
