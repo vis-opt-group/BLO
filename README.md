@@ -12,17 +12,17 @@ The standard BLO problem can be formally expressed as<br>
 </div>
 
 
-In machine learning and computer vision fields, despite the different motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms. 
+- [x] In machine learning and computer vision fields, despite the different motivations and mechanisms, a lot of complex problems, such as hyper-parameter optimization, multi-task and meta learning, neural architecture search, adversarial learning and deep reinforcement learning, actually all contain a series of closely related subproblms. 
 In our recent survey published in TPAMI, named "Investigating Bi-Level Optimization for Learning and Vision from a Unified Perspective: A Survey and Beyond", we uniformly express these complex learning and vision problems from the perspective of BLO. Also we construct a best-response-based single-level reformulation and establish a unified algorithmic framework to understand and formulate mainstream gradient-based BLO methodologies, covering aspects ranging from fundamental automatic differentiation schemes to various accelerations, simplifications, extensions and their convergence and complexity properties. We summarize mainstream gradient-based BLOs and illustrate their intrinsic relationships within our general algorithmic platform.<br>
 <div align=center>
   
 ![BLO](blo_2.png)
 </div>
-We also discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. 
+- [x] We also discuss the potentials of our unified BLO framework for designing new algorithms and point out some promising directions for future research. 
 If you are concerned about bi-level optimization, please refer to our paper for details and cite it [[Paper](https://arxiv.org/abs/2101.11517)].
 
 
-In this website, we first summarize our related progress and references of existing works for a quick look at the current progress. Futhermore, we provide a list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs. We will continuously maintain this website to promote the research in BLO fields.
+- [x] In this website, we first summarize our related progress and references of existing works for a quick look at the current progress. Futhermore, we provide a list of important papers discussed in this survey, corresponding codes, and additional resources on BLOs. We will continuously maintain this website to promote the research in BLO fields.
 
 
 ## Our Related Work
@@ -155,7 +155,7 @@ We have published [BOML](https://github.com/dut-media-lab/BOML) previously, a mo
 - Basura Fernando, Stephen Gould. [Learning End-to-end Video Classification with Rank-pooling. ICML 2016.](http://proceedings.mlr.press/v48/fernando16.pdf)
 
 ## Citation
-    If this paper is helpful for your research, please cite our paper:
+    - [x] If this paper is helpful for your research, please cite our paper:
     @article{liu2021investigating,
     title={Investigating bi-level optimization for learning and vision from a unified perspective: A survey and beyond},   
     author={Liu, Risheng and Gao, Jiaxin and Zhang, Jin and Meng, Deyu and Lin, Zhouchen},   
